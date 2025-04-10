@@ -36,5 +36,6 @@ TransactionManager API é uma API REST desenvolvida para gerenciar transações 
 <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div><br/>
+<li> Fastify </li>
 <li>Knex.js (Query Builder)</li>
 <li>Zod (para validação) </li>
